@@ -36,6 +36,14 @@
 }
 
 /*===== BASE =====*/
+
+#nav_img{
+  margin-top: 20px;
+  height: 84px;
+}
+
+
+
 *, ::before, ::after {
   box-sizing: border-box;
 }
