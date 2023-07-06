@@ -683,6 +683,11 @@ img {
 }
 
 @media screen and (max-width: 576px) {
+
+   #nav_img{
+    margin-top: 30px;
+    height: 55px;
+  }
   /* figma design */
   .figma__design{
     margin: 300px auto;
